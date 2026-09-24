@@ -4,7 +4,7 @@
 
 Construyo aplicaciones web de punta a punta: interfaces con React y Next.js, APIs con Node.js y .NET, y bases de datos PostgreSQL. Estoy terminando la Tecnicatura Universitaria en Desarrollo de Software (UCCuyo) y actualmente trabajo como freelance.
 
-- 🔭 Actualmente: buscando mi próxima oportunidad como desarrollador full stack / frontend
+- 🔭 Actualmente: buscando mi próxima oportunidad como desarrollador full stack
 - 🌱 Profundizando en: Clean Architecture y CQRS en .NET
 - 🔧 Además: hardware, IoT (ESP32, Arduino) y soporte técnico de PCs
 - 📫 Contacto: [LinkedIn](https://www.linkedin.com/in/alvaro-c-510960310) · [alvarocastroinfante@gmail.com](mailto:alvarocastroinfante@gmail.com)
